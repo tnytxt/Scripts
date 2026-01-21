@@ -1,6 +1,6 @@
 **What do these script thingies do?**
 
-| Scipt  | Function  |
+| Script  | Function  |
 |---|---|
 | organize  | organize files in the download directory by their file extensions.  |
 |   |   |
