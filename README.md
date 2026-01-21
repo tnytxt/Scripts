@@ -1,2 +1,2 @@
-What do that script thing do?
+**What do these script thingies do?**
 
